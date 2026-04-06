@@ -10,7 +10,7 @@ The system follows a **Lakehouse architecture** with structured layers:
 ---
 
 ## 🏗️ Architecture
-![Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](docs/Live traffic analytics flowchart diagram.png)
 
 ### 🔄 Data Flow:
 
