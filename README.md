@@ -10,7 +10,7 @@ The system follows a **Lakehouse architecture** with structured layers:
 ---
 
 ## 🏗️ Architecture
-![Architecture Diagram]([docs/Live traffic analytics flowchart diagram.png](https://github.com/Sudhanshu132/Real-Time-Traffic-Data-Engineering-/blob/main/docs/Live%20traffic%20analytics%20flowchart%20diagram.png))
+![Architecture Diagram](https://raw.githubusercontent.com/Sudhanshu132/Real-Time-Traffic-Data-Engineering-/main/docs/Live%20traffic%20analytics%20flowchart%20diagram.png)
 
 ### 🔄 Data Flow:
 
